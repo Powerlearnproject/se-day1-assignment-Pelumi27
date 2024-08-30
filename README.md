@@ -31,6 +31,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 8. Maintenace: Fix defects and issues that arise from the use of the software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 The Waterfall methodology is a linear, sequential approach to software development that follows a phased approach while Agile methodology is an iterative and invremental approach to software development that emphasizes flexibility, collaboration, and rapid delivery. 
 However, the Waterfall method is not suitable for projects with unclear or changing requjirements, rapidly eveolving technology, agile or iterative development needs.
 
